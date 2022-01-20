@@ -9,3 +9,8 @@
     text-align: center;
     display: block;
 }
+
+#logo {
+  width: 3cm;
+  height: 3cm;
+}
