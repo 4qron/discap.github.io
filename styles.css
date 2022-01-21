@@ -10,7 +10,32 @@
     display: block;
 }
 
+.container {
+  text-align: center;
+  display: block;
+  font-size: medium;
+}
+
 #logo {
-  width: 3cm;
-  height: 3cm;
+  width: 25%;
+  height: 25%;
+}
+
+#title {
+  color: #DE4E4E;
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+* {
+  background-color: #F3F6FB;
+  font-weight: bold;
+}
+
+#discord {
+  margin-top: 10%;
+}
+
+.text {
+  font-size: x-large;
 }
