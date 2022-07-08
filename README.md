@@ -1,3 +1,3 @@
 # discap.github.io
 
-Discap開源網站 by. 4qron
+[點我瀏覽網站](https://4qron.github.io/discap.github.io)
